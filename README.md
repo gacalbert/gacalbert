@@ -28,8 +28,8 @@
 
 ### 📈 **GitHub Stats**  
 <div align="center">  
-<img src="https://github-readme-stats.vercel.app/api?username=1godless5&show_icons=true&theme=default" alt="GitHub Stats" width="48%" height="50%" />  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=1godless5&theme=default" alt="GitHub Streak" width="48%" height="50%" />  
+<img src="https://github-readme-stats.vercel.app/api?username=1godless5&show_icons=true&theme=default" alt="GitHub Stats" width="48%" height="200" />  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=1godless5&theme=default" alt="GitHub Streak" width="48%" height="200" />  
 </div>  
 
 ---
