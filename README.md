@@ -8,9 +8,9 @@
 ---
 
 ### 🛠 **About Me**  
-- I’m currently working part-time as a **Junior Java Developer** while balancing a full-time role in aviation.  
+- I’m currently working in aviation while trying to find my way into backend development in Java.  
 - I’m passionate about learning and improving my skills as a backend developer.  
-- My focus is on **Java** and backend development.  
+- I'm also playing around with frontend development as I like to visualize what I do in my backend projects.  
 
 ---
 
