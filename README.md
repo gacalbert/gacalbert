@@ -9,7 +9,7 @@
 
 ### 🛠 **About Me**  
 - I’m currently working in aviation while trying to find my way into backend development in Java.  
-- I’m passionate about learning and improving my skills as a backend developer.  
+- I’m passionate about learning and improving my skills.  
 - I'm also playing around with frontend development as I like to visualize what I do in my backend projects.  
 
 ---
